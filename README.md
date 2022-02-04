@@ -7,4 +7,8 @@ I'm a second year CS student at the Hebrew University of Jerusalem.
 
 Intersted in data science, machine learning and artificial intelligence
 
+# Programming languages
+=======================
+Python Java C C++
+
 
