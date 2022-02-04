@@ -7,17 +7,4 @@ I'm a second year CS student at the Hebrew University of Jerusalem.
 
 Intersted in data science, algorithms and artificial intelligence
 
-Connect with me
-linked-inmediumstack-overflowfacebook
-
-
-Programming languages
-Python
-
-java
-
-C++
-
-C
-
 
